@@ -1,0 +1,184 @@
+{
+  "last_checked_utc": "2026-11-02T10:43:02.442847+00:00",
+  "complete_weeks": [
+    {
+      "date": "2026-01-02",
+      "edition_id": 6984
+    },
+    {
+      "date": "2026-01-09",
+      "edition_id": 7007
+    },
+    {
+      "date": "2026-01-16",
+      "edition_id": 7020
+    },
+    {
+      "date": "2026-01-23",
+      "edition_id": 7026
+    },
+    {
+      "date": "2026-01-30",
+      "edition_id": 7040
+    },
+    {
+      "date": "2026-02-06",
+      "edition_id": 7057
+    },
+    {
+      "date": "2026-02-13",
+      "edition_id": 7067
+    },
+    {
+      "date": "2026-02-20",
+      "edition_id": 7078
+    },
+    {
+      "date": "2026-02-27",
+      "edition_id": 7090
+    },
+    {
+      "date": "2026-03-06",
+      "edition_id": 7098
+    },
+    {
+      "date": "2026-03-13",
+      "edition_id": 7105
+    },
+    {
+      "date": "2026-03-20",
+      "edition_id": 7116
+    },
+    {
+      "date": "2026-03-27",
+      "edition_id": 7127
+    },
+    {
+      "date": "2026-04-03",
+      "edition_id": 7143
+    },
+    {
+      "date": "2026-04-10",
+      "edition_id": 7152
+    },
+    {
+      "date": "2026-04-17",
+      "edition_id": 7172
+    },
+    {
+      "date": "2026-04-24",
+      "edition_id": 7181
+    },
+    {
+      "date": "2026-05-01",
+      "edition_id": 7189
+    },
+    {
+      "date": "2026-05-08",
+      "edition_id": 7201
+    },
+    {
+      "date": "2026-05-15",
+      "edition_id": 7212
+    },
+    {
+      "date": "2026-05-22",
+      "edition_id": 7224
+    },
+    {
+      "date": "2026-05-29",
+      "edition_id": 7236
+    },
+    {
+      "date": "2026-06-05",
+      "edition_id": 7260
+    },
+    {
+      "date": "2026-06-12",
+      "edition_id": 7279
+    },
+    {
+      "date": "2026-06-19",
+      "edition_id": 7287
+    },
+    {
+      "date": "2026-06-26",
+      "edition_id": 7305
+    },
+    {
+      "date": "2026-07-03",
+      "edition_id": 7311
+    },
+    {
+      "date": "2026-07-10",
+      "edition_id": 7320
+    },
+    {
+      "date": "2026-07-17",
+      "edition_id": 7328
+    },
+    {
+      "date": "2026-07-24",
+      "edition_id": 7343
+    },
+    {
+      "date": "2026-07-31",
+      "edition_id": 7350
+    },
+    {
+      "date": "2026-08-07",
+      "edition_id": 7365
+    },
+    {
+      "date": "2026-08-14",
+      "edition_id": 7374
+    },
+    {
+      "date": "2026-08-21",
+      "edition_id": 7383
+    },
+    {
+      "date": "2026-08-28",
+      "edition_id": 7391
+    },
+    {
+      "date": "2026-09-04",
+      "edition_id": 7403
+    },
+    {
+      "date": "2026-09-11",
+      "edition_id": 7418
+    },
+    {
+      "date": "2026-09-18",
+      "edition_id": 7428
+    },
+    {
+      "date": "2026-09-25",
+      "edition_id": 7435
+    },
+    {
+      "date": "2026-10-02",
+      "edition_id": 7444
+    },
+    {
+      "date": "2026-10-09",
+      "edition_id": 7456
+    },
+    {
+      "date": "2026-10-16",
+      "edition_id": 7471
+    },
+    {
+      "date": "2026-10-23",
+      "edition_id": 7480
+    },
+    {
+      "date": "2026-10-30",
+      "edition_id": 7492
+    }
+  ],
+  "incomplete_weeks": [],
+  "unique_tracks": 127,
+  "total_editions_found": 44
+}
