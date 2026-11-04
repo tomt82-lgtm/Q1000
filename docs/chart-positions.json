@@ -1161,7 +1161,7 @@
   },
   "706": {
     "title": "Thunder",
-    "artists": "GABRY PONTE & PREZIOSO  & LUM!X"
+    "artists": "GABRY PONTE & LUM!X & PREZIOSO"
   },
   "707": {
     "title": "Texas Hold 'Em",
@@ -1922,5 +1922,81 @@
   "533": {
     "title": "In My Mind",
     "artists": "DYNORO & GIGI D'AGOSTINO"
+  },
+  "501": {
+    "title": "Trompeta",
+    "artists": "WILLY WILLIAM"
+  },
+  "502": {
+    "title": "Telephone",
+    "artists": "LADY GAGA and BEYONCE"
+  },
+  "503": {
+    "title": "The Book Of Love",
+    "artists": "GAVIN JAMES"
+  },
+  "504": {
+    "title": "Ta Fête",
+    "artists": "STROMAE"
+  },
+  "505": {
+    "title": "Counting Stars",
+    "artists": "ONEREPUBLIC"
+  },
+  "506": {
+    "title": "Rich Girl",
+    "artists": "GWEN STEFANI and EVE"
+  },
+  "507": {
+    "title": "One (Your Name)",
+    "artists": "SWEDISH HOUSE MAFIA & PHARRELL"
+  },
+  "508": {
+    "title": "Horizon",
+    "artists": "TOURIST LEMC"
+  },
+  "509": {
+    "title": "The Ketchup Song (Asereje)",
+    "artists": "LAS KETCHUP"
+  },
+  "510": {
+    "title": "Ok",
+    "artists": "ROBIN SCHULZ & JAMES BLUNT"
+  },
+  "511": {
+    "title": "Payphone",
+    "artists": "MAROON 5 & WIZ KHALIFA"
+  },
+  "512": {
+    "title": "Je T'adore",
+    "artists": "KATE RYAN"
+  },
+  "513": {
+    "title": "Is It Any Wonder ?",
+    "artists": "KEANE"
+  },
+  "514": {
+    "title": "Hypnotized",
+    "artists": "PURPLE DISCO MACHINE & SOPHIE AND THE GIANTS"
+  },
+  "515": {
+    "title": "In The Stars",
+    "artists": "BENSON BOONE"
+  },
+  "516": {
+    "title": "Die Another Day",
+    "artists": "MADONNA"
+  },
+  "517": {
+    "title": "Natural",
+    "artists": "IMAGINE DRAGONS"
+  },
+  "518": {
+    "title": "Right Round",
+    "artists": "FLO RIDA"
+  },
+  "519": {
+    "title": "Hallelujah",
+    "artists": "NATALIA and GABRIEL RIOS"
   }
 }
