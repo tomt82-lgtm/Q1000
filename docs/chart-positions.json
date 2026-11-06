@@ -1289,7 +1289,7 @@
   },
   "677": {
     "title": "Rockabye",
-    "artists": "CLEAN BANDIT & ANNE-MARIE & SEAN PAUL"
+    "artists": "CLEAN BANDIT & SEAN PAUL & ANNE-MARIE"
   },
   "678": {
     "title": "Sugar",
@@ -3090,5 +3090,57 @@
   "240": {
     "title": "Just Say Yes",
     "artists": "SNOW PATROL"
+  },
+  "215": {
+    "title": "Hey Brother",
+    "artists": "AVICII"
+  },
+  "216": {
+    "title": "Espresso",
+    "artists": "SABRINA CARPENTER"
+  },
+  "217": {
+    "title": "Shotgun",
+    "artists": "GEORGE EZRA"
+  },
+  "218": {
+    "title": "Sky And Sand",
+    "artists": "PAUL KALKBRENNER"
+  },
+  "219": {
+    "title": "Uncover",
+    "artists": "ZARA LARSSON"
+  },
+  "220": {
+    "title": "Rain Down On Me",
+    "artists": "KANE"
+  },
+  "221": {
+    "title": "One Last Time",
+    "artists": "ARIANA GRANDE"
+  },
+  "222": {
+    "title": "What Do You Mean?",
+    "artists": "JUSTIN BIEBER"
+  },
+  "223": {
+    "title": "Die On This Hill",
+    "artists": "SIENNA SPIRO"
+  },
+  "224": {
+    "title": "Ellie",
+    "artists": "REGI & JAKE REESE"
+  },
+  "225": {
+    "title": "Hot N Cold",
+    "artists": "KATY PERRY"
+  },
+  "226": {
+    "title": "Sadness",
+    "artists": "STASH"
+  },
+  "227": {
+    "title": "Stay",
+    "artists": "THE KID LAROI & JUSTIN BIEBER"
   }
 }
