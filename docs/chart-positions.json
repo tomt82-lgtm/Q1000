@@ -2065,7 +2065,7 @@
   },
   "471": {
     "title": "Where Them Girls At",
-    "artists": "DAVID GUETTA & FLO RIDA & JASON DERULO"
+    "artists": "DAVID GUETTA & JASON DERULO & FLO RIDA"
   },
   "472": {
     "title": "We Are Never Ever Getting Back Together",
@@ -3902,5 +3902,49 @@
   "34": {
     "title": "The Fate Of Ophelia",
     "artists": "TAYLOR SWIFT"
+  },
+  "14": {
+    "title": "Alors On Danse",
+    "artists": "STROMAE"
+  },
+  "15": {
+    "title": "Chasing Cars",
+    "artists": "SNOW PATROL"
+  },
+  "16": {
+    "title": "Get Lucky",
+    "artists": "DAFT PUNK & PHARRELL WILLIAMS"
+  },
+  "17": {
+    "title": "Atlas",
+    "artists": "POMMELIEN THIJS"
+  },
+  "18": {
+    "title": "Are You With Me",
+    "artists": "LOST FREQUENCIES"
+  },
+  "19": {
+    "title": "Someone You Loved",
+    "artists": "LEWIS CAPALDI"
+  },
+  "20": {
+    "title": "Blinding Lights",
+    "artists": "THE WEEKND"
+  },
+  "21": {
+    "title": "Flowers",
+    "artists": "MILEY"
+  },
+  "22": {
+    "title": "Perfect",
+    "artists": "ED SHEERAN"
+  },
+  "23": {
+    "title": "Roar",
+    "artists": "KATY PERRY"
+  },
+  "24": {
+    "title": "Let Her Go",
+    "artists": "PASSENGER"
   }
 }
