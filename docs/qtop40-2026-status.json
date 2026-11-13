@@ -1,5 +1,5 @@
 {
-  "last_checked_utc": "2026-11-07T09:56:13.925090+00:00",
+  "last_checked_utc": "2026-11-13T19:58:14.449213+00:00",
   "complete_weeks": [
     {
       "date": "2026-01-02",
@@ -176,9 +176,13 @@
     {
       "date": "2026-10-30",
       "edition_id": 7492
+    },
+    {
+      "date": "2026-11-13",
+      "edition_id": 7509
     }
   ],
   "incomplete_weeks": [],
-  "unique_tracks": 127,
-  "total_editions_found": 44
+  "unique_tracks": 130,
+  "total_editions_found": 45
 }
